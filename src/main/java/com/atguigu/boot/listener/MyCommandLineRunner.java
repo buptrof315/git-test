@@ -3,7 +3,7 @@ package com.atguigu.boot.listener;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;
-@Order(2)
+@Order(6)
 @Component
 public class MyCommandLineRunner implements CommandLineRunner {
     @Override
