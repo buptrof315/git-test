@@ -11,5 +11,6 @@ public class MyCommandLineRunner implements CommandLineRunner {
         System.out.println("MyCommandLineRunner....run...");
         System.out.println("Heloo git 3");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
